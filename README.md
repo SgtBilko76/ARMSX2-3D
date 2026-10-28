@@ -1,5 +1,7 @@
 # ARMSX2 — Native ARM64 JIT Fork of PCSX2
 
+**Download, install guide, controls and pictures: [portroyale.online/armsx2.html](https://portroyale.online/armsx2.html)**
+
 [![Sponsor](https://img.shields.io/badge/Sponsor-SgtBilko76-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SgtBilko76)
 
 [![All Platforms](https://img.shields.io/github/actions/workflow/status/ARMSX2/ARMSX2/build-all.yml?branch=master&label=All%20Platforms)](https://github.com/ARMSX2/ARMSX2/actions/workflows/build-all.yml)
