@@ -43,6 +43,10 @@ ARMSX2 targets ARM64 across desktop (macOS, Windows, Linux) and mobile (Android,
 
 Please note that a BIOS dump from a legitimately-owned PS2 console is required to use the emulator. For more information, visit [this page](https://pcsx2.net/docs/setup/bios/).
 
+## Controls
+
+![ARMSX2-3D controller mapping](docs/controls.webp)
+
 ## Building
 
 Check out our [github actions](https://github.com/ARMSX2/ARMSX2/actions/workflows/build-all.yml) for the latest build recipe
